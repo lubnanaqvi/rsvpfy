@@ -9,7 +9,8 @@ const Footer = () => {
       boxShadow: "0 3px 5px 2px rgba(55, 0, 55, .3)",
       color: "white",
       textAlign: "center",
-      fontStyle: "italic"
+      fontStyle: "italic",
+      padding: "2%"
     }
   });
   const classes = useStyles();
